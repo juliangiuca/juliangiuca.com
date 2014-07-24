@@ -1,5 +1,7 @@
 # juliangiuca.com
-Can't nobody say [Strong Bad](http://homestarrunner.com/sbemail64.html) never did nothing for the peoples.
+> Can't nobody say [Strong Bad](http://homestarrunner.com/sbemail64.html) never did nothing for the peoples.
+
+...Which is to say, I have a domain, and I want to put a simple website on it.
 
 ### What am I looking at?
 This is a very simple pure Node webserver to serve up static HTML, and have a keep-alive for Heroku.
